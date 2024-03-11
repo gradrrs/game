@@ -1,2 +1,4 @@
-#!/usr/bin/env node.
-console.log('Choose the game!')
+#!/usr/bin/env node
+import { choise } from '../src/index.js';
+
+choise();
